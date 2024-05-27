@@ -1,3 +1,6 @@
+# sudo apt-get install ncbi-blast+
+# pip insall biopython
+
 from Bio.Blast.Applications import * # Biblioteca para acessar o Blast remotamente
 import os # Biblioteca padrão para interagir com o sistema
 import sys
